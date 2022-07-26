@@ -3,11 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/killercrazylol" target="blank"><img src="https://img.shields.io/twitter/follow/killercrazylol?logo=twitter&style=for-the-badge" alt="killercrazylol" /></a> </p>
 
-- 🔭 I’m currently working on [small projects like Killer-Bot](https://github.com/KillerCrazy25/Killer-Bot)
+- 🔭 I’m currently working on small projects like [Killer-Bot](https://github.com/KillerCrazy25/Killer-Bot) and [DiscordForms](https://github.com/KillerCrazy25/DiscordForms)
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **KillerCrazy25#2049 on Discord**
+- 📫 Discord: **KillerCrazy25#2049**
+
+- 😎 Pronouns: **He / Him**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
